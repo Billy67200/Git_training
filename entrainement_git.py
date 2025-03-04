@@ -22,3 +22,9 @@ plt.show()
 'Etape 2'
 'Modification'
 x=5
+
+'Etape 3'
+'Modification'
+y=6
+z=4
+t=7
